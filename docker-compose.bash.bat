@@ -1,0 +1,1 @@
+docker exec -it hoppscotch-1 /bin/bash
